@@ -20,7 +20,6 @@
             <li>how merge repo</li>
             <li>how fork,pull repos</li>
          </ul>
-
      </li>
  </ul>
 
@@ -28,7 +27,7 @@
  <hr>
 
  <h5>Speciall Thanks: </h5>
-   **[Tean Road To Code](https://www.roadtocode.org/)**
+   **[Tean Road To Code] (https://www.roadtocode.org/)**
    <br>
    <hr>
-   *[All Team Members](https://github.com/sarrthak008/icp8.0-html-group-project-1/graphs/contributors)**
+   *[All Team Members] (https://github.com/sarrthak008/icp8.0-html-group-project-1/graphs/contributors)**
