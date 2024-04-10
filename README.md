@@ -9,7 +9,7 @@
         <ul>
              <li> git init</li>
              <li> git commit</li>
-             <li> git push</li>
+             <li> git pull</li>
              <li> git push</li>
        </ul>
      </li>
