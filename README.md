@@ -26,8 +26,7 @@
  <hr>
  <hr>
 
- <h5>Speciall Thanks: </h5>
-   **[Tean Road To Code] (https://www.roadtocode.org/)**
-   <br>
-   <hr>
-   *[All Team Members] (https://github.com/sarrthak008/icp8.0-html-group-project-1/graphs/contributors)**
+ <h3>Speciall Thanks: </h3>
+  <h4>Team Road to code.</h4>
+  <h4>Team Members.</h4>
+ 
