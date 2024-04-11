@@ -9,7 +9,7 @@
         <ul>
              <li> git init</li>
              <li> git commit</li>
-             <li> git push</li>
+             <li> git pull</li>
              <li> git push</li>
        </ul>
      </li>
@@ -24,6 +24,8 @@
  </ul>
 
  <hr>
+
+ we are live : https://sarrthak008.github.io/icp8.0-html-group-project-1/
  <hr>
 
  <h3>Speciall Thanks: </h3>
